@@ -1,1 +1,0 @@
-This project just wal you through the basic steps how Log4J work in Java
